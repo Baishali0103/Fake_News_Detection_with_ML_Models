@@ -9,4 +9,4 @@ This can be run locally but I ran it on VSCode using virtual environment.
 5. Install all the libraries in the app.py files in this virtual environment using pip install command (streamlit, joblib, nltk, scikit-learn). Use the VSCode terminal you get after opening virtual environment to do this.
 6. Then run the app.py file using **streamlit run app.py**
 
-Note: 1. Make sure you add your dataset in the .ipynb file. 2. This can't be deployed via Github as the .pkl file of the model is bigger than 100MB. 
+Note: 1. Make sure you add your dataset in the .ipynb file. 2. This can't be deployed via Github as the .pkl file of the model is bigger than 100MB. 3. Make sure your .pkl files are saved from the same training run. 
