@@ -1,6 +1,6 @@
 # Fake_News_Detection_with_ML_Models
 This project is about Fake News Detection using a Random Forest ML model. 
-#How to run
+# How to run
 This can be run locally but I ran it on VSCode using virtual environment. 
 1. First, run the .ipynb file to train the model. I suggest to run it on Google Collab or Jupyter Notebook (jupyter lab - download from anaconda)
 2. Then, save the .ipynb files, .pkl files (which you will get after the training, these are the saved model and vectorizer), and app.py in a same folder.
